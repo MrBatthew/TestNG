@@ -1,0 +1,11 @@
+<suite name = "SeleniumSuite">
+    <test name = "SeleniumTest">
+<classes>
+
+    <class name = "SeleniumTest" >
+
+    </class>
+</classes>
+
+    </test>
+</suite>
