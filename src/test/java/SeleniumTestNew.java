@@ -18,7 +18,7 @@ public class SeleniumTestNew extends baseTest {
     //String Email = "admin@yourstore.com";
     //String Password = "admin";
         driver.findElement(By.id("Email")).sendKeys("lalala");
-        //added this commentg
+        //added this commentgs
     //loginPage.enterEmailInfo("admin@yourstore.com");
     //loginPage.enterPasswordInfo("admin");
     //loginPage.clickLoginButton();
